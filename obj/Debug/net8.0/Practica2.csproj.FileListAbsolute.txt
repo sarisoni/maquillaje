@@ -29,3 +29,11 @@ C:\Users\PC\maquillaje\obj\Debug\net8.0\refint\Practica2.dll
 C:\Users\PC\maquillaje\obj\Debug\net8.0\Practica2.pdb
 C:\Users\PC\maquillaje\obj\Debug\net8.0\Practica2.genruntimeconfig.cache
 C:\Users\PC\maquillaje\obj\Debug\net8.0\ref\Practica2.dll
+C:\Users\PC\maquillaje\bin\Debug\net8.0\DnsClient.dll
+C:\Users\PC\maquillaje\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\PC\maquillaje\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\PC\maquillaje\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\PC\maquillaje\bin\Debug\net8.0\Snappier.dll
+C:\Users\PC\maquillaje\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PC\maquillaje\obj\Debug\net8.0\Practica2.csproj.AssemblyReference.cache
+C:\Users\PC\maquillaje\obj\Debug\net8.0\Practica2.csproj.Up2Date
