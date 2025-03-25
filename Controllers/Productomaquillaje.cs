@@ -1,4 +1,4 @@
-public class Productomaquillaje {
+public class ProductoMaquillaje {
  public string Producto { get; set; }
  public string Marca { get; set; }
  public string Tono { get; set; }
