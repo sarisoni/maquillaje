@@ -3,14 +3,14 @@ using MongoDB.Bson.Serialization.Attributes;
 public class Productos {
         [BsonId]
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
-        public string? ObjectId { get; set; }
-        public string Marca { get; set; } = string.Empty;
-        public string Tono { get; set; } = string.Empty;
-        public string Tipo { get; set; } = string.Empty;
-        public decimal Precio { get; set; }
-        public DateTime FechaLanzamiento { get; set; }
-        public List <string> Ingredientes { get; set; }
-        public string Disponibilidad { get; set; } = string.Empty;
-        public string Especificaciones { get; set; } = string.Empty;
-        public string Categoria { get; set; } = string.Empty;
+        public string? Id { get; set; }
+        public string marca { get; set; } = string.Empty;
+        public string tono { get; set; } = string.Empty;
+        public string tipo { get; set; } = string.Empty;
+        public decimal precio { get; set; }
+        public DateTime fecha_lanzamiento { get; set; }
+        public List <string> ingredientes { get; set; }
+        public bool disponibilidad { get; set; }
+        public string categoria { get; set; } = string.Empty;
+        public string producto { get; set; } 
     }
